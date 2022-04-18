@@ -1,17 +1,17 @@
 ID,Nombre,Sexo,Edad,Fuma,Cerveza,PaleAle,IPA,Stout,BrownAle,LightLager
-1,Paola Lugo,Femenino,23,No,S’,S’,No,S’,S’,No
-2,Francisco Tinoco,Masculino,31,No,S’,No,No,S’,S’,No
-3,Ivan Acevedo,Masculino,35,S’,S’,No,No,No,S’,S’
-4,Luis Gonzalez,Masculino,49,No,S’,S’,S’,S’,No,S’
-5,Jose Antonio Gomez,Masculino,26,No,S’,No,No,No,S’,S’
-6,Victor Manuel,Masculino,31,No,S’,No,No,S’,S’,S’
-7,Jessica Osorio,Femenino,43,S’,No,No,S’,S’,No,S’
-8,Victor Vazquez,Masculino,48,No,No,No,S’,S’,No,S’
-9,Gabriel Andrade,Masculino,48,No,S’,S’,S’,S’,S’,No
-10,Bertha Cata–eda,Femenino,52,No,No,No,S’,S’,S’,S’
-11,Gustavo Martinez,Masculino,43,No,No,S’,S’,S’,S’,S’
-12,Carlos Juarez,Masculino,25,No,S’,S’,No,S’,S’,S’
-13,Humberto Acevedo,Masculino,31,S’,S’,S’,No,S’,S’,No
-14,Emilio Sandoval,Masculino,23,S’,S’,S’,S’,S’,S’,S’
-15,Roberto Torres,Masculino,27,S’,S’,S’,S’,S’,S’,No
-16,Moises Vazquez,Masculino,24,S’,S’,No,S’,S’,S’,No
+1,Paola Lugo,Femenino,23,No,Si,Si,No,Si,Si,No
+2,Francisco Tinoco,Masculino,31,No,Si,No,No,Si,Si,No
+3,Ivan Acevedo,Masculino,35,Si,Si,No,No,No,Si,Si
+4,Luis Gonzalez,Masculino,49,No,Si,Si,Si,Si,No,Si
+5,Jose Antonio Gomez,Masculino,26,No,Si,No,No,No,Si,Si
+6,Victor Manuel,Masculino,31,No,Si,No,No,Si,Si,Si
+7,Jessica Osorio,Femenino,43,Si,No,No,Si,Si,No,Si
+8,Victor Vazquez,Masculino,48,No,No,No,Si,Si,No,Si
+9,Gabriel Andrade,Masculino,48,No,Si,Si,Si,Si,Si,No
+10,Bertha Cata–eda,Femenino,52,No,No,No,Si,Si,Si,Si
+11,Gustavo Martinez,Masculino,43,No,No,Si,Si,Si,Si,Si
+12,Carlos Juarez,Masculino,25,No,Si,Si,No,Si,Si,Si
+13,Humberto Acevedo,Masculino,31,Si,Si,Si,No,Si,Si,No
+14,Emilio Sandoval,Masculino,23,Si,Si,Si,Si,Si,Si,Si
+15,Roberto Torres,Masculino,27,Si,Si,Si,Si,Si,Si,No
+16,Moises Vazquez,Masculino,24,Si,Si,No,Si,Si,Si,No
