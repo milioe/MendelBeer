@@ -18,7 +18,11 @@ Mendel is a Machine Learning that tries to solve the problem of predicting beer
 
 
 
+## Further Information / Contact
+* Emilio Sandoval Palomino 
+*   emilio.sandpal@gmail.comn
 
+* Humberto Acevedo
 
 
 
