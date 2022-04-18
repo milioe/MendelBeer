@@ -1,17 +1,17 @@
 ID,Nombre,Sexo,Edad,Fuma,Cerveza,PaleAle,IPA,Stout,BrownAle,LightLager
-1,Paola Lugo,1,23,0,1,1,0,1,1,0
-2,Francisco Tinoco,0,31,0,1,0,0,1,1,0
-3,Ivan Acevedo,0,35,1,1,0,0,0,1,1
-4,Luis Gonzalez,0,49,0,1,1,1,1,0,1
-5,Jose Antonio Gomez,0,26,0,1,0,0,0,1,1
-6,Victor Manuel,0,31,0,1,0,0,1,1,1
-7,Jessica Osorio,1,43,1,0,0,1,1,0,1
-8,Victor Vazquez,0,48,0,0,0,1,1,0,1
-9,Gabriel Andrade,0,48,0,1,1,1,1,1,0
-10,Bertha Cata–eda,1,52,0,0,0,1,1,1,1
-11,Gustavo Martinez,0,43,0,0,1,1,1,1,1
-12,Carlos Juarez,0,25,0,1,1,0,1,1,1
-13,Humberto Acevedo,0,31,1,1,1,0,1,1,0
-14,Emilio Sandoval,0,23,1,1,1,1,1,1,1
-15,Roberto Torres,0,27,1,1,1,1,1,1,0
-16,Moises Vazquez,0,24,1,1,0,1,1,1,0
+1,Paola Lugo,Femenino,23,No,S’,S’,No,S’,S’,No
+2,Francisco Tinoco,Masculino,31,No,S’,No,No,S’,S’,No
+3,Ivan Acevedo,Masculino,35,S’,S’,No,No,No,S’,S’
+4,Luis Gonzalez,Masculino,49,No,S’,S’,S’,S’,No,S’
+5,Jose Antonio Gomez,Masculino,26,No,S’,No,No,No,S’,S’
+6,Victor Manuel,Masculino,31,No,S’,No,No,S’,S’,S’
+7,Jessica Osorio,Femenino,43,S’,No,No,S’,S’,No,S’
+8,Victor Vazquez,Masculino,48,No,No,No,S’,S’,No,S’
+9,Gabriel Andrade,Masculino,48,No,S’,S’,S’,S’,S’,No
+10,Bertha Cata–eda,Femenino,52,No,No,No,S’,S’,S’,S’
+11,Gustavo Martinez,Masculino,43,No,No,S’,S’,S’,S’,S’
+12,Carlos Juarez,Masculino,25,No,S’,S’,No,S’,S’,S’
+13,Humberto Acevedo,Masculino,31,S’,S’,S’,No,S’,S’,No
+14,Emilio Sandoval,Masculino,23,S’,S’,S’,S’,S’,S’,S’
+15,Roberto Torres,Masculino,27,S’,S’,S’,S’,S’,S’,No
+16,Moises Vazquez,Masculino,24,S’,S’,No,S’,S’,S’,No
